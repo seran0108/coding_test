@@ -9,7 +9,6 @@ public class Solution {
             //answer += (c-'0');
             answer += Character.getNumericValue(c); 
         }
-
         return answer;
     }
 }
